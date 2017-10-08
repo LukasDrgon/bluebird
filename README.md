@@ -5,6 +5,7 @@
 
 [![Build Status](https://travis-ci.org/petkaantonov/bluebird.svg?branch=master)](https://travis-ci.org/petkaantonov/bluebird)
 [![coverage-98%](https://img.shields.io/badge/coverage-98%25-brightgreen.svg?style=flat)](http://petkaantonov.github.io/bluebird/coverage/debug/index.html)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/bluebird/badge?style=rounded)](https://www.jsdelivr.com/package/npm/bluebird)
 
 **Got a question?** Join us on [stackoverflow](http://stackoverflow.com/questions/tagged/bluebird), the [mailing list](https://groups.google.com/forum/#!forum/bluebird-js) or chat on [IRC](https://webchat.freenode.net/?channels=#promises)
 
